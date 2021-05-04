@@ -1,0 +1,156 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.928; Version 2009; 64bit' Language: 'en' Physical Memory: 16244 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/ahnmu/Desktop/Unity/210428-Animation Assignment/ifStatementAnimation/IfStatementsAnimation
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54664
+Successfully changed project path to: C:/Users/ahnmu/Desktop/Unity/210428-Animation Assignment/ifStatementAnimation/IfStatementsAnimation
+C:/Users/ahnmu/Desktop/Unity/210428-Animation Assignment/ifStatementAnimation/IfStatementsAnimation
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 88.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ahnmu/Desktop/Unity/210428-Animation Assignment/ifStatementAnimation/IfStatementsAnimation/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2080 Super with Max-Q Design (ID=0x1e93)
+    Vendor:   
+    VRAM:     8010 MB
+    Driver:   27.21.14.6231
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56244
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002666 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 49.02 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.167 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003653 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.049 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1127 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.4 MB.
+System memory in use after: 58.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1569.
+Total: 3.855600 ms (FindLiveObjects: 0.376600 ms CreateObjectMapping: 0.094200 ms MarkObjects: 3.242100 ms  DeleteObjects: 0.141800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Materials/Images/VRRig-Recap.mat
+  artifactKey: Guid(4b58aaa6526ecc04185f9f3aab118a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Images/VRRig-Recap.mat using Guid(4b58aaa6526ecc04185f9f3aab118a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b0ff2c052c137a3d9ed4b7544f50645') in 0.212749 seconds
+  Import took 0.215844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.137897 seconds.
+  path: Assets/Altspace/Export Assets/Shaders/MREUnlit.shader
+  artifactKey: Guid(29d8b53c0f3e65249bc63b8b7e8dccd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Altspace/Export Assets/Shaders/MREUnlit.shader using Guid(29d8b53c0f3e65249bc63b8b7e8dccd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44c3ea1ceb8b315dcdaef75a217fa88d') in 0.010677 seconds
+  Import took 0.013582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.112744 seconds.
+  path: Assets/Misc/Texts/Roboto-Thin.ttf
+  artifactKey: Guid(167e29420790546488c86ddfda4c5058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Misc/Texts/Roboto-Thin.ttf using Guid(167e29420790546488c86ddfda4c5058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e4f2fe164421cede6d5e7e804425bc8') in 0.054742 seconds
+  Import took 0.057544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029740 seconds.
+  path: Assets/Animations/IfStatementAnim.controller
+  artifactKey: Guid(1091398f91d775e48a8e4248e2420b5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/IfStatementAnim.controller using Guid(1091398f91d775e48a8e4248e2420b5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97efed7e1be8b74327ff1f9600ba751e') in 0.015229 seconds
+  Import took 0.017875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004003 seconds.
+  path: Assets/Materials/Images/LeftTeleportRay.mat
+  artifactKey: Guid(60ef2c11608d99c47a214e7782fb8ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Images/LeftTeleportRay.mat using Guid(60ef2c11608d99c47a214e7782fb8ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2af878ddd7da02863206a7587415e87c') in 0.023471 seconds
+  Import took 0.026370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023122 seconds.
+  path: Assets/Misc/Texts/Roboto-Medium.ttf
+  artifactKey: Guid(120615e1d0ece874090f752e74973a03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Misc/Texts/Roboto-Medium.ttf using Guid(120615e1d0ece874090f752e74973a03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55c7b23729627296076e22423e8dce6e') in 0.019215 seconds
+  Import took 0.022794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.131770 seconds.
+  path: Assets/Images/VR App Dev/M4/Materials/IfStatement.mat
+  artifactKey: Guid(fe3c143084230994fb4d359247bd03fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/VR App Dev/M4/Materials/IfStatement.mat using Guid(fe3c143084230994fb4d359247bd03fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48e4d76c70d2b21dc22e8935d50fce13') in 0.014519 seconds
+  Import took 0.017176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039694 seconds.
+  path: Assets/Misc/Texts/Roboto-Regular.ttf
+  artifactKey: Guid(25db42a1a934ea340806086e86b6020c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Misc/Texts/Roboto-Regular.ttf using Guid(25db42a1a934ea340806086e86b6020c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4d159ae8a8e50288e31d5697251c7d0') in 0.020639 seconds
+  Import took 0.023746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004183 seconds.
+  path: Assets/Animations/IfStatement.anim
+  artifactKey: Guid(104c75df7e985794c85100de892c7581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/IfStatement.anim using Guid(104c75df7e985794c85100de892c7581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e7bee0cdd30f2dc6c57a6c53586871a') in 0.007883 seconds
+  Import took 0.010610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.241826 seconds.
+  path: Assets/Misc/Texts/Roboto-Light.ttf
+  artifactKey: Guid(17051fc7ede5e6f4bb0ecde014426cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Misc/Texts/Roboto-Light.ttf using Guid(17051fc7ede5e6f4bb0ecde014426cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e3bd65e846c649c7478d9e17804555c') in 0.021061 seconds
+  Import took 0.024854 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
